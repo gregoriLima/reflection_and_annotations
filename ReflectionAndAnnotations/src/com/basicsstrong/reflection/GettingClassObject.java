@@ -1,7 +1,7 @@
 package com.basicsstrong.reflection;
 
 public class GettingClassObject {
-
+/**
 	public static void main(String[] args) throws ClassNotFoundException {
 		
 		//forName()
@@ -34,5 +34,5 @@ public class GettingClassObject {
 		
 
 	}
-
+*/
 }
